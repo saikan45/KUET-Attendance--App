@@ -1,12 +1,4 @@
-# Android-Attendance-App
-
-
-
-See Demo Here - https://projectworlds.in/android-projects-with-source-code/android-attendance-system-app-source-code/
-
-More Project
-
-Youtube Channel Link :https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg?sub_confirmation=1
+# KUET-Attendance-App
 
 
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
@@ -43,8 +35,8 @@ class then register the number of subjects in that class and can mark the attend
 </ul>
 <h3>Admin Login</h3>
 <ul>
- 	<li>Username :-admin</li>
- 	<li>Password :-admin123</li>
+ 	<li>Username :kuetcse</li>
+ 	<li>Password :5445</li>
 </ul>
 &nbsp;
 <h3>Installation :</h3>
