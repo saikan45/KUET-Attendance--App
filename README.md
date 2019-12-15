@@ -38,4 +38,7 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Username :kuetcse</li>
  	<li>Password :5445</li>
 </ul>
+## Features:
+##  Home page
+![Image](home.jpg)
 
